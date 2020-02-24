@@ -41,4 +41,5 @@
     <string name="submit">Submit</string>
     <string name="about_me">About Me</string>
     <string name="text_02" translatable="false">Text 02</string>
+    <string name="text_03" translatable="false">Text 02</string>
 </resources>
